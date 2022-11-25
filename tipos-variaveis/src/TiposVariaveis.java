@@ -9,5 +9,6 @@ public class TiposVariaveis {
 
         System.out.println(numero);
         System.out.println("teste");
+        System.out.println("teste2");
     }
 }
