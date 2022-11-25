@@ -8,5 +8,6 @@ public class TiposVariaveis {
         numero = - numero;
 
         System.out.println(numero);
+        System.out.println("teste");
     }
 }
